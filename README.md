@@ -5,7 +5,7 @@
   <b>xYami - UserBot</b>
 </h1>
 
-<b>. “Semua yang perlu kau lakukan adalah mengejar mimpimu sendiri. – Yami Sukehiro</b>
+<b> Semua yang perlu kau lakukan adalah mengejar mimpimu sendiri. – Yami Sukehiro</b>
 
 [![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
