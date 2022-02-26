@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./resources/extras/images (20).jpeg" alt="xYami Ubot">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>xYami - UserBot</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
+<b>Terjebak dan terdesak dalam situasi genting, akan membuat seseorang memiliki ruang untuk berkembang.– Yami Sukehiro</b>
 
 [![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
@@ -20,6 +20,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)   
 [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![xYami Quotes](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/+fm_l5hLPXv01YzY1) 
 ----
 
 # Deploy
