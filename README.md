@@ -5,7 +5,7 @@
   <b>xYami - UserBot</b>
 </h1>
 
-<b>Terjebak dan terdesak dalam situasi genting, akan membuat seseorang memiliki ruang untuk berkembang.– Yami Sukehiro</b>
+<b>. “Semua yang perlu kau lakukan adalah mengejar mimpimu sendiri. – Yami Sukehiro</b>
 
 [![](https://img.shields.io/badge/Ultroid-v0.3-blue)](#)
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
@@ -125,6 +125,6 @@ Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.or
 * [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
 * [MarshalX](https://github.com/MarshalX) for [PyTgCalls.](https://github.com/MarshalX/tgcalls)
-* [TryNError](https://github.com/upilkimpul) for [Other Quotes.][https://t.me/MYALTERARTWORK]
+* [TryNError](https://github.com/upilkimpul) for [Other Quotes.](https://t.me/MYALTERARTWORK)
 
 > Made with 💗 by [@ademaunanyabang](https://t.me/maunyarebahaja).    
